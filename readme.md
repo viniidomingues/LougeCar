@@ -6,6 +6,7 @@
 
 ## componentes
 * utilizado componentes do tipo função para o header e os cards utilizados no projeto
+* utilizando passagem de props entre componentes
 
 ## dados e listagem
 * utilizado o arquivo data.ts para carregar os dados na section list
